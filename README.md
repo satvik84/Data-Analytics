@@ -1,20 +1,18 @@
-# Responsive Navbar with Dropdown
+# The-space-travel-website
+The sleek mult-page space travel website. This is responsive site featuring a homepage, buttons, a navigation bar, tabs, keyboard navigation and underline, dot and number indicators.
 
-This repository contains a responsive navigation bar with dropdown functionality. It is designed to adapt and display properly across different screen sizes, providing an optimal user experience on both desktop and mobile devices.
+### Preview
 
-## Features
-- Responsive design that adjusts to various screen sizes
-- Dropdown menus to display additional links or subcategories
-- Easy customization and integration into your web projects
+> Desktop Preview
 
-## Demo:
-![s1](https://github.com/Arshdeep-13/responsive-navbar-with-dropdown/assets/108752646/2a31d467-7cbf-473f-a53c-e9d99be21f3f)
+<img src="preview/homepage-desktop.PNG" height="450">
 
-[Codepen URL](https://codepen.io/evavic44/pen/QWZYEPQ)
+> Mobile navigation Preview
 
-## Tutorial
-Want to learn how to build this, read the post on [freeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/)
+<img src="preview/homepage-mobile-nav.PNG" height="350">
 
-## Contributing
-Contributions are open to only bug reports, issues or fixes.
+### Summary
+Brought a Frontend Mentor design to life and created my own design system while building a multi-page space travel website with Kevin Powell as my guide.
 
+### Demo
+[Watch demo](https://evgenywas.github.io/The-space-travel-website/)

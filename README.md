@@ -15,4 +15,4 @@ The sleek mult-page space travel website. This is responsive site featuring a ho
 Brought a Frontend Mentor design to life and created my own design system while building a multi-page space travel website with Kevin Powell as my guide.
 
 ### Demo
-[Watch demo](https://evgenywas.github.io/The-space-travel-website/)
+[Watch demo](https://satvik84.github.io/The-space-travel-website/)
